@@ -1,0 +1,14 @@
+ Valleywood        1455454545454544554
+ Same ID course    2533333333333333333
+ Carriage Hillstuvw3555555555555555555
+ Dwan              4453453453453453453
+ This is a Test    5444444444444444444
+ Another Test      6345543454545454445
+1
+ 1       Neil Golfenhofer     333333333333333333
+ 2       Neil Golfenhofer     333333333333333333
+ 3       Neil Golfenhofer     333333333333333333
+ 4       Neil Golfenhofer     333333333333333333
+ 5       Neil Golfenhofer     333333333333333333
+ 6       Neil Golfenhofer     333333333333333333
+A
